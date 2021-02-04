@@ -1,6 +1,6 @@
-Occasionly codes. Currently working on simushell (https://github.com/Ruthenic/simushell) as a main project.
+Occasionly codes. Currently working on [![rodder](https://github.com/Ruthenic/rodder)], along with it's GUI, [![rodder-gui](https://github.com/Ruthenic/rodder-gui)]
 
-As github recommends I give my pronouns, they are: he/him, they/them, or it.
+He/Him
 
 Website is located at https://ruthenic.github.io/
 
