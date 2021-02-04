@@ -1,4 +1,4 @@
-Occasionly codes. Currently working on [![rodder](https://github.com/Ruthenic/rodder)], along with it's GUI, [![rodder-gui](https://github.com/Ruthenic/rodder-gui)]
+Occasionly codes. Currently working on [!rodder(https://github.com/Ruthenic/rodder)], along with it's GUI, [!rodder-gui(https://github.com/Ruthenic/rodder-gui)]
 
 He/Him
 
