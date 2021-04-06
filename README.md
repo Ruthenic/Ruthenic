@@ -2,7 +2,7 @@ Occasionly codes. Currently working on [rodder](https://github.com/Ruthenic/rodd
 
 He/Him
 
-Website is located at https://ruthenic.github.io/
+Website is located at https://www.ruthenic.com
 
 [![Drake's github stats](https://github-readme-stats.vercel.app/api?username=Ruthenic&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
