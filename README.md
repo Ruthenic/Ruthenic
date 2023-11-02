@@ -1,4 +1,4 @@
-endogenic system of 4
+endogenic system of 6
 
 ---
 
